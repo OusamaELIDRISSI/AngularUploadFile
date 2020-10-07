@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularUploadFile"
+    }
+  },
+  "defaultProject": "AngularUploadFile",
+  "cli": {
+    "analytics": "5430b8e6-afa7-4e4b-a89f-c58ca3eb5c9e"
+  }
 }
